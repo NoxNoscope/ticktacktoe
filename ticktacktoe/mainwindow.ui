@@ -137,7 +137,7 @@
         </font>
        </property>
        <property name="text">
-        <string>restart</string>
+        <string>Restart</string>
        </property>
       </widget>
      </widget>

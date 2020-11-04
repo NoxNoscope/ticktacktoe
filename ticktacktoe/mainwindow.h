@@ -16,6 +16,10 @@ public:
 	~MainWindow();
 
 private slots:
+	void doLoss(int);
+
+	void checkIfWin();
+
 	void on_btn11_clicked();
 
 	void on_btn12_clicked();

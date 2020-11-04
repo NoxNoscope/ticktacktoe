@@ -145,7 +145,7 @@ public:
         btn31->setText(QString());
         btn32->setText(QString());
         btn33->setText(QString());
-        pushButton->setText(QCoreApplication::translate("MainWindow", "restart", nullptr));
+        pushButton->setText(QCoreApplication::translate("MainWindow", "Restart", nullptr));
     } // retranslateUi
 
 };
